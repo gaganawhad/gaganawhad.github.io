@@ -1,1 +1,10 @@
 _site
+
+# Swap files
+*.swp
+*.swo
+*.swn
+*.swm
+*.swk
+*.swl
+
