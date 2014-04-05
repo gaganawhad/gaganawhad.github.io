@@ -7,6 +7,6 @@
 - Setting accept headers using font assets is very convenient. 
 - font assets uses 
 - passenger verion 4.0.39. 
-{% gist 9651009 %}
+  {% gist 9651009 %}
 - as ever since passenger 
 - 
